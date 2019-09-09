@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Route, NavLink } from "react-router-dom";
 class App extends Component {
   render() {
     return (
-      <Router basename="/react-auth-ui/">
+      <Router basename="/react-authentication-ui/">
         <div className="App">
           <div className="App__Aside"></div>
           <div className="App__Form">
